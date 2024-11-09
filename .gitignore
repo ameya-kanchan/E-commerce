@@ -1,0 +1,3 @@
+api-gateway/volume-data/mysql_keycloak_data/mysql.sock
+inventory-service/mysql/mysql.sock
+order-service/mysql/mysql.sock
